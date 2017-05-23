@@ -1,0 +1,29 @@
+/**************************************************************/
+/*********************** ZOOMER CSS ***************************/
+/**************************************************************/
+
+#img_zoom {
+	width: 500px!important;
+	height: 300px!important;
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+#img_zoom:hover {
+	border: 1px solid yellow!important;
+	border-radius: .8em!important;
+}
+
+.zoom {
+	display:inline-block;
+	position: relative;
+}
+
+#run_zoomer {
+	margin-top: 1em;
+	margin-left: .6em;
+}
+
+
+

@@ -1,0 +1,23 @@
+.mandatory {
+    color: yellow;
+}
+
+#regForm {
+    margin-top: 60px;
+}
+
+label {
+    color: white;
+}
+
+#loginPanel {
+    margin-top: 50px;
+}
+
+.darkFont {
+    color: black;
+}
+
+#loginAlert {
+    margin-top: 30px;
+}

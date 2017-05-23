@@ -1,0 +1,46 @@
+/**************************************************************/
+/************************* TABLE ******************************/
+/**************************************************************/
+
+table {
+	 font-family: Verdana, Arial, 'sans-serif';
+	 font-size: 1em;
+	 border: 1px solid yellow!important;
+	 border-radius: .8em!important;
+}
+
+tr:hover {
+	color: yellow!important;
+	background-color: black!important;
+}
+
+th {
+	color: white;
+	background-color: black;
+}
+
+.odd {
+	color: black;
+	background-color: yellow;
+}
+
+.even {
+	color: red;
+	background-color: beige;
+}
+
+.day {
+	font-weight: bold;
+}
+
+#progressTable{
+	margin-top:80px;
+	margin-bottom:150px;
+
+}
+
+.yellow{
+	color:yellow;
+	
+}
+

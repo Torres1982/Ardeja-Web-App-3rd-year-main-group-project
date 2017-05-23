@@ -1,0 +1,14 @@
+/**************************************************************/
+/************************** TOOLTIP ***************************/
+/**************************************************************/
+
+.tooltip_color,
+#tooltip a:focus {
+	color: blue!important;
+	text-decoration: underline;
+}
+
+#tooltip a:hover {
+	color: yellow!important;
+	text-decoration: underline;
+}

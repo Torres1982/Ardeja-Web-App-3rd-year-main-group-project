@@ -1,0 +1,85 @@
+/**************************************************************/
+/******************** BMI CALCULATOR CSS **********************/
+/**************************************************************/
+
+#mssg_bmi,
+#mssg_height,
+#mssg_weight,
+#bmi_description {
+    margin-top: .5em;
+}
+
+.info {
+    color: red;
+    float: left;
+    width: 185px;
+}
+
+#margin_header {
+    margin-left: -10px;
+}
+
+/************* BMI Calculator Fields ***************/
+/***************************************************/
+#result,
+#height,
+#weight {
+    width: 65px;
+}
+
+#height,
+#weight,
+#bmi_evaulation {
+    text-align: center;
+}
+
+#result {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+#bmi_evaluation {
+    padding: .5em;
+    margin-top: .5em;
+    width: 233px;
+    height: 60px;
+    resize: none;
+}
+
+#clear_bmi_evaluation_box {
+    clear: both;
+}
+
+#bmi_calculator {
+    width: 250px;
+    background-color: yellow;
+    padding: .5em;
+    border: 1px solid red;
+    border-radius: .8em;
+    margin-left: 3.5em;
+}
+
+/******************** Button ***********************/
+/***************************************************/
+#bmi_button1 {
+    margin-top: .5em;
+    margin-left: 2.6em;
+}
+
+#bmi_button2 {
+    margin-top: .5em;
+    margin-left: 7em;
+}
+
+#reset,
+#button {
+    color: yellow;
+    background-color: black;
+    border: 1px solid red;
+
+}
+
+#bmi {
+    margin-top: 100px;
+
+}

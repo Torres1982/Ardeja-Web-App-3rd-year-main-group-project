@@ -1,0 +1,37 @@
+/**************************************************************/
+/**************************** FOOTER CSS **********************/
+/**************************************************************/
+
+footer {
+	font-family: Verdana, Arial, 'sans-serif';
+	color: black;
+	background-color: yellow;
+	border-top: 3px solid white;
+	margin-top: 1em!important;
+}
+
+footer img {
+	border-radius: 0!important;
+	border: none!important;
+}
+
+.img_1 {
+	margin: .5em 2em .5em 0;
+}
+
+#email {
+	padding-bottom: 1em;
+	margin-left: -1.4em;
+}
+
+#mobile {
+	margin-left: -2.1em;
+}
+
+#contact_info {
+	margin-left: -2.4em;
+}
+
+.text-center {
+	margin-top: 1em;
+}

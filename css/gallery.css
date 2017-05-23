@@ -1,0 +1,65 @@
+/**************************************************************/
+/************************ GALLERY CSS *************************/
+/**************************************************************/
+
+body {
+	background-image: url("../images/wallpaper.jpg");
+	font-family: Verdana, Arial, 'sans-serif';
+	font-size: 1.4em;
+	color: white;	
+}
+
+/************ Z-index for the tip box **************/
+/***************************************************/
+#draggable {
+	z-index: 1;
+}
+
+/********************* Images **********************/
+/***************************************************/
+#gallery_container img {
+	width: 170px;
+	height: 100px;
+	border-radius: .8em;
+	border: 1px solid yellow;
+	margin-right: .5em;
+	float: left;
+}
+
+#gallery_container {
+	padding: .5em .5em 1em .5em;
+}
+
+#gallery_container p {
+	text-align: justify;
+}
+
+.pic {
+	padding: .6em;
+}
+
+.picture_fixer {
+	padding-left: .6em;
+	padding-right: .6em;
+	padding-top: .6em;
+	margin-bottom: -.6em;
+}
+
+/**************** Clear the breaks *****************/
+/***************************************************/
+br {
+	clear: both;
+}
+
+/*************** Fixer - block display *************/
+/***************************************************/
+.center-block {
+	float: none;
+}
+#wrap_switcher {
+	margin-top: 3em;
+}
+
+#draggable {
+	margin-top: 3em;
+}

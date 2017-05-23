@@ -1,0 +1,33 @@
+/**************************************************************/
+/************************* DRAGGABLE CSS **********************/
+/**************************************************************/
+
+#draggable {
+	
+	color: black;
+	background: white;
+	border: 2px solid yellow;
+	border-radius: .8em;
+	width: 60%;
+	height: 100%;
+	padding: 0.5em;	
+	float: right;
+	margin-top: .8em;
+	margin-right: 1em;
+}
+
+#draggable p {
+	text-align: center;
+	font-weight: bold;
+}
+
+#draggable h4 {
+	font-size: x-small;
+	text-align: center;
+	color: red;
+}
+
+#tipbox {
+	color: red;
+	text-align: center;
+}

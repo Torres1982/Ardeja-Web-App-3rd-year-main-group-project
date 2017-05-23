@@ -1,0 +1,49 @@
+/**************************************************************/
+/************************* RESIZABLE CSS **********************/
+/**************************************************************/
+
+.resizable {
+	background-color: white;
+	border: 2px solid;
+	border-radius: .8em;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	margin-left: .8em;
+	margin-top: 1.7em;
+	width: 300px;
+	height: 40px;
+	display: inline-block;
+	resize: vertical;
+	overflow: auto;
+}
+
+#resizable_right {
+	float: right;
+	margin-right: 1em;
+	clear: right;
+}
+
+.resizable h3 {
+	font-size: 100%;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+.resizable img {
+	border: none!important;
+	border-radius: 0!important;
+}
+
+#tab1 {
+	padding-right: 3em;
+}
+
+#tab2 {
+	padding-right: 2em;
+}
+
+.resizable p {
+	padding-left: 4em;
+}

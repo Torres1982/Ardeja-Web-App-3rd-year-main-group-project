@@ -1,0 +1,119 @@
+/**************************************************************/
+/************************ BACKGROUND CSS **********************/
+/**************************************************************/
+
+#background {
+    margin-left: 1.3em !important;
+    margin-right: 1em;
+    color: white;
+}
+
+#background h3,
+#background h4 {
+    color: yellow;
+}
+
+#subshading {
+    color: white;
+    margin-top: 2em;
+    margin-left: 1.3em;
+    display: flex;
+}
+
+.subshading_left img,
+.subshading_right img {
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+.subshading_left {
+    margin-right: 5em;
+    float: left;
+}
+
+.subshading_right {
+    float: right;
+}
+
+/********** Set Paddings for Subshading Lists ***********/
+/********************************************************/
+.tab_right1 {
+    padding-right: 3em;
+}
+
+.tab_right2 {
+    padding-right: 2.2em;
+}
+
+.tab_right3 {
+    padding-right: 3.7em;
+}
+
+.tab_right4 {
+    padding-right: 2.8em;
+}
+
+.tab_right5 {
+    padding-right: 4.2em;
+}
+
+.list_top,
+.list_top_margin {
+    padding-top: .5em;
+    padding-right: .2em;
+}
+
+.list_top li,
+.list_top_margin li {
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+/***************** Horizontal Subshading ****************/
+/********************************************************/
+.horizontal {
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+.sub-level {
+    color: black;
+    background: grey;
+    border: 1px solid yellow;
+    border-radius: .8em;
+}
+
+.fix {
+    padding-left: .5em;
+    margin-top: .5em;
+}
+
+/********************* Bullet Style *********************/
+/********************************************************/
+.bullet_style {
+    list-style-type: square;
+}
+
+/********************* Font Resizer *********************/
+/********************************************************/
+.font_resizer {
+    color: yellow;
+    background: red;
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    padding: .5em .5em 0 .5em;
+    border: 1px solid black;
+    border-radius: 0.8em;
+}
+
+.font_resizer button {
+    color: black;
+}
+
+/**************** FIXER for block display ***************/
+/********************************************************/
+.center-block {
+    float: none;
+}

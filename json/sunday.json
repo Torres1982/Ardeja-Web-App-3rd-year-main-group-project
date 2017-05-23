@@ -1,0 +1,45 @@
+[
+  {
+    "class": "Fit Combat",
+    "time": "11.00, 13.15, 15.30, 17.20",
+    "duration": "Duration: 60 minutes",
+    "lines": [
+      "Instructor: Dean, Arnold",
+      "Fat Burning: *****",
+      "Toning: *****"
+    ]
+  },
+
+  {
+    "class": "Express Spin",
+    "time": "9.45, 12.00, 14.30, 16.00",
+    "duration": "Duration: 50 minutes",
+    "lines": [
+      "Instructor: Artur, Gunnar",
+      "Fat Burning: ****",
+      "Toning: ******"
+    ]
+  },
+
+  {
+    "class": "Flat Abs",
+    "time": "11.00, 12.35, 14.50, 17.00",
+    "duration": "Duration: 40 minutes",
+    "lines": [
+      "Instructor: Mark, Kelli",
+      "Fat Burning: *****",
+      "Toning: ****"
+    ]
+  },
+
+  {
+    "class": "Functional Training",
+    "time": "10.00, 12.00, 14.50, 16.30",
+    "duration": "Duration: 60 minutes",
+    "lines": [
+      "Instructor: Ahmed, Shinead",
+      "Fat Burning: ***",
+      "Toning: ****"
+    ]
+  }
+]
